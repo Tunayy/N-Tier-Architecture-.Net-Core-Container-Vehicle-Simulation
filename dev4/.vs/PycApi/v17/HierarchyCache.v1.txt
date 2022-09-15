@@ -1,0 +1,260 @@
+﻿++Solution 'PycApi' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:PycApi.sln
+++PycApi
+i:{00000000-0000-0000-0000-000000000000}:PycApi
+++Connected Services 
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>642
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>521
+++Dependencies
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>641
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:>274
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>275
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:>352
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:>519
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>520
+++Properties
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\properties\
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.workerservice\properties\
+++Controller
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\controller\
+++Middleware
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\middleware\
+++StartUpExtension
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\startupextension\
+++appsettings.json
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\appsettings.json
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.workerservice\appsettings.json
+++ErrorDetail.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\errordetail.cs
+++Program.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\program.cs
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.workerservice\program.cs
+++Startup.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\startup.cs
+++No service dependencies discovered
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>643
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>522
+++Analyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:analyzers
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:analyzers
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:analyzers
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:analyzers
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:analyzers
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:analyzers
+++Frameworks
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:frameworks
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:frameworks
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:frameworks
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:frameworks
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:frameworks
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:frameworks
+++Packages
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:packages
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:packages
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:packages
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:packages
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:packages
+++Projects
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:projects
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:projects
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:projects
+++launchSettings.json
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\properties\launchsettings.json
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.workerservice\properties\launchsettings.json
+++Container_Controller.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\controller\container_controller.cs
+++Vehicle_Controller.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\controller\vehicle_controller.cs
+++ErrorHandlerMiddleware.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\middleware\errorhandlermiddleware.cs
+++HeartbeatMiddleware.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\middleware\heartbeatmiddleware.cs
+++RequestLoggingMiddleware.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\middleware\requestloggingmiddleware.cs
+++ExtensionCustomizeSwagger.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\startupextension\extensioncustomizeswagger.cs
+++ExtensionNHibernate.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\startupextension\extensionnhibernate.cs
+++ExtensionService.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\startupextension\extensionservice.cs
+++ExtensionSwaggerFileOperationFilter.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\startupextension\extensionswaggerfileoperationfilter.cs
+++appsettings.Development.json
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\appsettings.development.json
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.workerservice\appsettings.development.json
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++Microsoft.AspNetCore.App
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi\microsoft.netcore.app
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.base\microsoft.netcore.app
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\microsoft.netcore.app
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.dto\microsoft.netcore.app
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\microsoft.netcore.app
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.workerservice\microsoft.netcore.app
+++Microsoft.Extensions.Caching.StackExchangeRedis (5.0.1)
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>656
+++Newtonsoft.Json (13.0.1)
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>655
+++Swashbuckle.AspNetCore (6.4.0)
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>654
+++PycApi.Data
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\pycapi.data.csproj
+i:{00000000-0000-0000-0000-000000000000}:PycApi.Data
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\pycapi.data.csproj
+++PycApi.Service
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\pycapi.service.csproj
+i:{00000000-0000-0000-0000-000000000000}:PycApi.Service
+++PycApi.Base
+i:{00000000-0000-0000-0000-000000000000}:PycApi.Base
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.base\pycapi.base.csproj
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.base\pycapi.base.csproj
+++Attribute
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.base\attribute\
+++Response
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.base\response\
+++PasswordAttribute.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.base\attribute\passwordattribute.cs
+++RoleAttribute.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.base\attribute\roleattribute.cs
+++UserNameAttribute.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.base\attribute\usernameattribute.cs
+++BaseResponse.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.base\response\baseresponse.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:>692
+++Mapping
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\mapping\
+++Model
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\model\
+++Repository
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\repository\
+++Container_Map.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\mapping\container_map.cs
+++DefaultMapping.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\mapping\defaultmapping.cs
+++Vehicle_Map.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\mapping\vehicle_map.cs
+++Container.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\model\container.cs
+++Vehicle.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\model\vehicle.cs
+++HibernateRepository.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\repository\hibernaterepository.cs
+++IHibernateRepository.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.data\repository\ihibernaterepository.cs
+++Microsoft.AspNetCore.App.Analyzers
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.Extensions.Logging.Generators
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++AutoMapper (10.1.1)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>703
+++FluentNHibernate (3.1.0)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>702
+++NHibernate (5.3.12)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>699
+++Npgsql (5.0.14)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>707
+++Serilog.AspNetCore (5.0.0)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>700
+++Serilog.Enrichers.Environment (2.2.0)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>705
+++Serilog.Enrichers.Process (2.0.2)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>701
+++Serilog.Enrichers.Thread (3.1.0)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>704
+++Serilog.Settings.Configuration (3.3.0)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>706
+++PycApi.Dto
+i:{00000000-0000-0000-0000-000000000000}:PycApi.Dto
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.dto\pycapi.dto.csproj
+++ContainerDto.cs
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.dto\containerdto.cs
+++VehicleDto.cs
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.dto\vehicledto.cs
+++Base
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\base\
+++Container
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\container\
+++Mapper
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\mapper\
+++Vehicle
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\vehicle\
+++Abstract
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\base\abstract\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\container\abstract\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\vehicle\abstract\
+++Concrete
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\base\concrete\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\container\concrete\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\vehicle\concrete\
+++MappingProfile.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\mapper\mappingprofile.cs
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.8)
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:>680
+++IBaseService.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\base\abstract\ibaseservice.cs
+++BaseService.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\base\concrete\baseservice.cs
+++IContainer_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\container\abstract\icontainer_service.cs
+++Container_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\container\concrete\container_service.cs
+++IVehicle_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\vehicle\abstract\ivehicle_service.cs
+++Vehicle_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.service\vehicle\concrete\vehicle_service.cs
+++PycApi.WorkerService
+i:{00000000-0000-0000-0000-000000000000}:PycApi.WorkerService
+++LogWorker.cs
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.workerservice\logworker.cs
+++TimedHostedService.cs
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.workerservice\timedhostedservice.cs
+++Worker.cs
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\n katmanlı net deneme\dev4\pycapi.workerservice\worker.cs
+++Microsoft.Extensions.Hosting (5.0.0)
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>679
+++Microsoft.Extensions.Hosting.WindowsServices (5.0.0)
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>681
+++Microsoft.AspNetCore.Analyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
